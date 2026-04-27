@@ -19,6 +19,3 @@ Bu proje, 8086 Assembly dili kullanılarak donanım seviyesinde (klavye tamponu 
 3. `Emulate` butonuna basarak kodu derleyin ve çalıştırın.
 4. Çıkan ekranda `ENTER` tuşuna basarak testi başlatın.
 *Not: Harici bir klavye kullanıyorsanız sayılara basabilmek için `NumLock` tuşunun açık olduğundan emin olun.*
-
-## 📄 Detaylı Dökümantasyon
-Projenin donanım kesmeleri, mimari kararları ve algoritma şeması hakkında detaylı bilgi için `Proje_Raporu.pdf` dosyasını inceleyebilirsiniz.
